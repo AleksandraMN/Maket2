@@ -201,6 +201,140 @@ body {
 .heading-left {
    margin: 60px 0;
 }
+.box__img {
+   width: 573px;
+   height: 492px;
+   flex: none;
+   order: 1;
+   flex-grow: 0;
+}
+.box-heading {
+   font-family: 'Open Sans';
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 52px;
+   color: #FFFFFF;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.box-dsc {
+   width: 460px;
+   font-family: 'Open Sans';
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 26px;
+   color: #FFFFFF;
+   opacity: 0.7;
+   margin-top: 20px;
+}
+.box_txt {
+   margin-bottom: 230px;
+}
+
+.footer {
+   background: #070F1D;
+}
+.list {
+   width: 261px;
+   margin-bottom: 27px;
+}
+.list-heading {
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+margin-bottom: 33px;
+margin-top: 48px;
+}
+.list-dsc {
+   font-family: 'Roboto';
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 16px;
+   color: #FFFFFF;
+   margin-bottom: 25px;
+}
+.list-info {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-weight: 100;
+   font-size: 14px;
+   line-height: 16px;
+   color: #FFFFFF;
+   opacity: 0.6;
+}
+.list-dsc-img {
+   margin-right: 9px;
+}
+.icons__link {
+   margin-right: 24px;
+   text-decoration: none;
+}
+.content_dsc {
+  margin-bottom: 10px;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 26px;
+  color: red;
+  opacity: 0.7;
+}
+.content {
+   margin-bottom: 200px;
+}
+.content_info {
+   font-family: 'Open Sans';
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 27px;
+   color: #FFFFFF;
+   opacity: 0.7;
+   margin-right: 10px;
+}
+form {
+   text-align: justify;
+   width: 600px;
+   justify-content: space-between;
+}
+.btn {
+   margin-top: 10px;
+	background: #3A68B8;
+   font-family: 'Roboto';
+	padding: 15px 30px;
+   font-size: 20px;
+   line-height: 27px;
+	font-family: inherit;
+	color:#fff;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+   margin-right: 15px;
+}
+.btn:hover {
+	opacity: 0.9;
+   outline: 3px solid #fff;
+}
+input {
+   width: 300px;
+   margin-bottom: 10px;
+   font-size: 18px;
+   line-height: 18px;
+   padding-left: 5px;
+   padding-right: 5px;
+}
+form input:focus 
+{
+  background: #eaeaea;
+}
+form label 
+{
+  width: 150px;
+  display: inline-block;
+  margin: 6px;
+  text-align:justify; 
+}
+
 
 
 
